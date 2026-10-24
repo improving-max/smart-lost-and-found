@@ -1,0 +1,11 @@
+# Compiled binaries
+/lost_found
+/lost_found.exe
+/a.out
+*.o
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
